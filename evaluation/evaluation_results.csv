@@ -1,0 +1,13 @@
+id,question,policy_accuracy,section_accuracy,context_precision,context_recall,fact_coverage,answer_accuracy,response_time,context_count,error
+1,What is the interest rate for a home loan?,1,1,1.0,1.0,1.0,1,11.5075,1,
+2,What documents are required for a home loan?,1,1,1.0,1.0,1.0,1,5.6364,6,
+3,What is the eligibility criteria for a home loan?,1,1,1.0,1.0,1.0,1,6.7129,1,
+4,What is the processing fee for a home loan?,1,1,1.0,1.0,1.0,1,4.6762,1,
+5,What is the repayment period for a home loan?,1,1,1.0,1.0,0.5,0,4.4352,1,
+6,Is collateral required for a home loan?,1,1,1.0,1.0,1.0,1,5.7084,1,
+7,What is the interest rate for an education loan?,1,1,1.0,1.0,1.0,1,5.8359,1,
+8,What documents are required for an education loan?,1,1,1.0,1.0,1.0,1,6.4831,4,
+9,Who is eligible for an education loan?,0,0,0.0,0.0,0.0,0,0.012,0,
+10,What is the maximum education loan amount?,1,1,1.0,1.0,1.0,1,4.1206,1,
+11,What documents are required for KYC?,1,0,0.0,0.0,0.0,0,5.1385,11,
+12,What is the process for adding a nominee to a bank account?,1,0,0.0,0.0,0.0,0,4.6159,2,
